@@ -1,0 +1,17 @@
+Logged into GitHub and created a new repository.
+
+Opened terminal and created the folder and 'get init' to initialize local repository.
+
+Created index.html and style.css files, added some info and an image.
+
+Added to staging and committed.
+
+Took link from github to tie the online repository with my local one.
+
+git push - my files to GitHub.
+
+Returned and added css to the files, added, committed and then pushed to GitHub.
+
+Made this simeple file.
+
+Checked in GitHub and saw the updated files. 
